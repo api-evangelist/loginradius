@@ -1,0 +1,121 @@
+{
+    "name": "LoginRadius",
+    "description": "Simplify customer authentication and authorization to amplify your business with better understanding of your audience using our customer identity management",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1086-loginradius.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "authentication",
+        "have api",
+        "identities",
+        "login",
+        "relative data",
+        "service api",
+        "users"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/loginradius\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Login Operations",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1086-loginradius.jpg",
+            "humanURL": "http:\/\/www.loginradius.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/login-operations.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/login-operations-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/login-operations-postman-collection.json"
+                }
+            ]
+        },
+        {
+            "name": "LoginRadius",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1086-loginradius.jpg",
+            "humanURL": "http:\/\/www.loginradius.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/loginradius.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/loginradius-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/loginradius-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.loginradius.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.loginradius.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.loginradius.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/loginradius"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/loginradius"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.loginradius.com\/developers"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@loginradius.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@loginradius.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@loginradius.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/LoginRadius"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.loginradius.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LoginRadius"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.loginradius.com\/"
+        }
+    ]
+}
