@@ -1,5 +1,5 @@
 {
-    "id": "ee0a85bda170c4ccfb43f2601a428257",
+    "id": "ceb4c7125f138152eb86f07f8979a2dc",
     "name": "Login Operations",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "ed0ad191fa59e00e245febc6040023e6",
+            "id": "5c2536b1011cd2217fa4e69e678d5623",
             "name": "Get the login mechanism to use when logging in.",
             "url": "\/loginhttp:\/\/localhost:8008\/_matrix\/client\/api\/v1\/login",
             "description": "All login stages MUST be mentioned if there is >1 login type.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ee0a85bda170c4ccfb43f2601a428257",
+            "collectionId": "ceb4c7125f138152eb86f07f8979a2dc",
             "rawModeData": ""
         },
         {
-            "id": "d7694d4241d8d26c7734e81a5e36a7e4",
+            "id": "c948c75e3b5c9b1f4690ec50765702de",
             "name": "Submit a login action.",
             "url": "\/loginhttp:\/\/localhost:8008\/_matrix\/client\/api\/v1\/login",
             "description": "If this is part of a multi-stage login, there MUST be a session key.",
@@ -60,7 +60,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ee0a85bda170c4ccfb43f2601a428257",
+            "collectionId": "ceb4c7125f138152eb86f07f8979a2dc",
             "rawModeData": ""
         }
     ]
