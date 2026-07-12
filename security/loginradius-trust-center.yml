@@ -1,0 +1,21 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://www.loginradius.com/security
+url: https://www.loginradius.com/security
+certifications:
+- SOC 2
+- ISO 27001
+- ISO 27017
+- ISO 27018
+- HIPAA
+- GDPR
+- CSA STAR
+evidence:
+- source: https://www.loginradius.com/security
+  keywords:
+  - soc 2
+  - hipaa
+  - trust center
+  - gdpr
+  - csa star
