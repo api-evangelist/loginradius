@@ -39,7 +39,6 @@ apis:
   - name: LoginRadius
     description: "Managed User Authentication Service"
     humanURL: https://www.loginradius.com/docs/
-    baseURL: https://www.loginradius.com/docs/
     tags:
       - Security
     properties:
