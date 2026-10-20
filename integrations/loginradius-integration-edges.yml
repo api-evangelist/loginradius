@@ -42,9 +42,27 @@ edges:
   detected: '2026-10-15'
   detected_by: mirror-platform-listings.py
   category: WordPress plugin
+- partner_name: Zendesk (own)
+  partner: zendesk
+  partner_match: mirror
+  mirror_match: domain
+  type: marketplace
+  relationship: platform-app
+  direction: third-party
+  channel: partner-built
+  marketplace: own
+  evidence: https://www.zendesk.com/marketplace/apps/support/130810/loginradius-customer-identity-and-access-management/
+  mirror_of: zendesk/integrations/zendesk-integration-edges.yml
+  apps:
+  - LoginRadius Customer Identity and Access Management
+  listing_count: 1
+  detected: '2026-10-20'
+  detected_by: mirror-platform-listings.py
+  category: CRM and Marketing
 method: searched
 checked:
 - https://zapier.com/api/v4/apps/
 - wordpress/integrations/wordpress-integration-edges.yml
+- zendesk/integrations/zendesk-integration-edges.yml
 source:
 - https://zapier.com/api/v4/apps/
