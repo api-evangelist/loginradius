@@ -28,32 +28,6 @@
     builder: unknown (not in the directory record)
   status: not-a-workflow
   arazzo: null
-- slug: loginradius-wordpress-own
-  label: WordPress (own)
-  partner: wordpress
-  partner_name: WordPress (own)
-  category: WordPress plugin
-  type: marketplace
-  marketplace: own
-  channel: partner-built
-  evidence: https://wordpress.org/plugins/loginradius-for-wordpress/
-  source: edge
-  relationship: platform-app
-  status: not-a-workflow
-  arazzo: null
-- slug: loginradius-zendesk-own
-  label: Zendesk (own)
-  partner: zendesk
-  partner_name: Zendesk (own)
-  category: CRM and Marketing
-  type: marketplace
-  marketplace: own
-  channel: partner-built
-  evidence: https://www.zendesk.com/marketplace/apps/support/130810/loginradius-customer-identity-and-access-management/
-  source: edge
-  relationship: platform-app
-  status: not-a-workflow
-  arazzo: null
 - slug: loginradius-cloud-security-alliance-star-registry
   label: Cloud Security Alliance STAR Registry
   partner_name: Cloud Security Alliance STAR Registry
@@ -82,5 +56,44 @@
       = every instance marked (Deprecated) by the registry; service counts never recorded
     detected_by: sweep-compliance-assurance.py
     detected: '2026-10-20'
+  status: not-a-workflow
+  arazzo: null
+- slug: loginradius-wordpress-own
+  label: WordPress (own)
+  partner: wordpress
+  partner_name: WordPress (own)
+  category: WordPress plugin
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://wordpress.org/plugins/loginradius-for-wordpress/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: loginradius-zendesk-own
+  label: Zendesk (own)
+  partner: zendesk
+  partner_name: Zendesk (own)
+  category: CRM and Marketing
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://www.zendesk.com/marketplace/apps/support/130810/loginradius-customer-identity-and-access-management/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: loginradius-drupal-own
+  label: Drupal (own)
+  partner: drupal
+  partner_name: Drupal (own)
+  category: Drupal contributed module
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://www.drupal.org/project/advanced_user_registration_and_management
+  source: edge
+  relationship: platform-app
   status: not-a-workflow
   arazzo: null
